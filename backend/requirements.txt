@@ -3,6 +3,4 @@ uvicorn
 python-dotenv
 pydantic
 requests
-crewai
-langchain
-google-generativeai
+crewai[google-genai]
