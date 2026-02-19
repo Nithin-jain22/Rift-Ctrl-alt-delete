@@ -1,0 +1,29 @@
+{
+  "status": "completed",
+  "branch": "DEVTEAMS_NITHIN_AI_Fix",
+  "total_failures": 0,
+  "fixes_applied": 0,
+  "ci_status": "failed",
+  "fixes": [],
+  "timeline": [
+    {
+      "iteration": 1,
+      "failures": 0,
+      "fixesApplied": 0,
+      "timestamp": "2026-02-19T16:58:49.637413",
+      "status": "passed",
+      "retryLimit": 5,
+      "ci_status": "FAILED"
+    }
+  ],
+  "score": {
+    "base": 100,
+    "speedBonus": 10,
+    "penalty": 0,
+    "finalScore": 110
+  },
+  "total_time": 16,
+  "repository": "https://github.com/Nithin-jain22/ai-agent-test.git",
+  "commit_count": 1,
+  "retry_limit": 5
+}
